@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="loo">Looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.</string>
+    <string name="teacher">Highly energetic and committed professional teacher with strong academic background and practical experience in modern and innovative teaching techniques seeks to provide top quality knowledge to students.</string>
+    <string name="marketing">Highly motivated individual and a certified digital marketer with strong SEO and SEM skills, attention to detail, and a solid online marketing background looking to obtain a position of SEO Specialist with XYZ company.</string>
+    <string name="finance">Ambitious and self-motivated individual with 4 years of professional experience, excellent knowledge of financial modeling and reporting, and working knowledge of Tally and SAP seek a position of Finance and Accounts Manager at ABC Ltd. Hold an MBA in Finance from CBA University.</string>
+    <bool name="large_layout">true</bool>
+
+</resources>
